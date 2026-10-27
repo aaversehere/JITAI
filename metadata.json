@@ -1,0 +1,6 @@
+{
+  "name": "JITAI Edukasi Remaja",
+  "description": "Aplikasi edukasi adaptif pencegahan HIV dan skrining mandiri cairan oral (HIVST) dengan perlindungan privasi untuk remaja SMAN 1 Tempuran Karawang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
